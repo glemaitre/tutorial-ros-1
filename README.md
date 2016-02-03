@@ -1,5 +1,5 @@
-Notes for ROS
-=============
+Tutorial ROS #1 - Lecture notes
+===============================
 
 ## ROS communication
 
